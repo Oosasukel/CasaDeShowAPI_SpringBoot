@@ -1,0 +1,1 @@
+http://34.95.241.38:8080/casashow/swagger-ui.html
